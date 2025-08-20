@@ -17,6 +17,7 @@ A simple Pomodoro Timer built with **Golang** and **Gin-Gonic**, with endpoints 
 
 ### English 🇺🇸
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/mariaeduardagsa-sys/pomodoro-em-go.git
    cd pomodoro-em-go
