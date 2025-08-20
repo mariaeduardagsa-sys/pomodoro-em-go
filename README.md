@@ -24,11 +24,17 @@ A simple Pomodoro Timer built with **Golang** and **Gin-Gonic**, with endpoints 
 ---
 
 📂 Project Structure / Estrutura do Projeto
+
 pomodoro-em-go/
+
 │── go.mod
+
 │── go.sum
-│── main.go         # Entry point / Ponto de entrada
+
+│── main.go   # Entry point / Ponto de entrada
+
 │── pomodoro/
+
 │    └── timer.go   # Pomodoro logic / Lógica do timer
 
 ---
